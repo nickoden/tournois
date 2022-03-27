@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application>
+    <title>Keyboard Audio Visualizer</title>
+    <description>Keyboard Audio Visualizer is an audio visualizer on your keyboard!  It listens to any program that is playing audio, be it a game or a music player, and creates a customizable light show on your Chroma-enabled devices.  Choose from several different color options for foreground and background and adjust the visualization parameters to best suit your setup with many configurable options</description>
+    <author name="Adam Honse" contact="https://github.com/CalcProgrammer1/KeyboardVisualizerVCUI"/>
+    <device_supported keyboard="1" mouse="1" headset="1" mousepad="1" keypad="1" chromalink="1"/>
+	<category game="0"/>
+</application>
